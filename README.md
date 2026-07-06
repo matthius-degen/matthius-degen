@@ -1,4 +1,4 @@
-## Hi there 👋
+## Why hello there!
 
 <!--
 **matthius-degen/matthius-degen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
